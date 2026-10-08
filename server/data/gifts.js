@@ -14,7 +14,7 @@ const giftData = [
         "name": "Lego Flower Bouquet Kit",
         "pricePoint": "$",
         "audience": "Green Thumbs",
-        "image": "https://tinyurl.com/ydpv2bt9",
+        "image": "https://brickcessories.com/cdn/shop/files/BCS008_01.jpg?v=1739058047&width=900",
         "description": "A gift and fun activity to do together",
         "submittedBy": "Isabel",
         "submittedOn": "2023-02-14T12:32:00"
@@ -44,7 +44,7 @@ const giftData = [
         "name": "Razer Kitty Headset",
         "pricePoint": "$$",
         "audience": "Gamers",
-        "image": "https://tinyurl.com/4pt84wry",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXctJ-IkPstTKCttHbgudKoI-IItnEoWL_QgBlE87K4nsRR2PFL1KtdcwQ&s=10",
         "description": "Create the purrfect gaming look with your own killer kitty style",
         "submittedBy": "Pixie",
         "submittedOn": "2011-10-10T14:48:00"
